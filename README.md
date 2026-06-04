@@ -58,22 +58,6 @@ Perfect for businesses running multiple brands or stores — manage everything f
 
 ---
 
-### 🌿 Project 3: Rasaya — Business Web Application
-> **Tech Stack:** ASP.NET Core · C# · SQL · Razor Pages
-
-**What it is:**  
-A custom business web application built for Rasaya — featuring product/service listings, customer interaction, and backend admin capabilities.
-
----
-
-### 🏥 Project 4: ImmunoShop (Bhavsar Immunologics)
-> **Tech Stack:** ASP.NET Core · C# · SQL Server
-
-**What it is:**  
-A pharmaceutical/wellness e-commerce and information web application for Bhavsar Immunologics, built to professionally present and sell health products online.
-
----
-
 ### ✅ Why Choose Me for Website Development?
 
 | Capability | Detail |
@@ -318,8 +302,6 @@ Dev Tools        │ Swagger/OpenAPI  │  Newtonsoft.Json  │  Visual Studio 2
 | **Restaurant Loyalty CRM** | CRM + Mobile Web | ✅ Delivered | React · .NET · SMS |
 | **KKDS Multi-Store** | E-Commerce | ✅ Delivered | ASP.NET Core |
 | **ASG Loyalty System** | Web App | ✅ Firebase Live | React · TypeScript · Firebase |
-| **ImmunoShop (Bhavsar)** | Business Web | ✅ Delivered | ASP.NET Core |
-| **Rasaya Platform** | Business Web | ✅ Delivered | ASP.NET Core |
 
 ---
 
