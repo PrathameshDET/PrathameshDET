@@ -45,7 +45,7 @@ A complete, deployable e-commerce system that handles real orders and payments. 
 > **Tech Stack:** ASP.NET Core · Razor Pages · C# · MSSQL
 
 **What it is:**  
-A multi-brand web platform serving different business verticals under one solution: an online store, a jewellery showcase website (SiraJewellery), and a SynfoShop-branded storefront.
+A multi-brand web platform serving different business verticals under one solution: an online store, a jewellery showcase website (SiraJewellery)
 
 **Key Features:**
 - 🏬 Multiple storefronts from a single codebase
