@@ -1,18 +1,41 @@
 # 🚀 Prathamesh Wadekar — Developer Portfolio Pitch
-### Full-Stack .NET & React Developer | 3D Web | CRM & ERP Systems
+### Full-Stack .NET Developer | ASP.NET Core & Web Forms | CRM & ERP Systems | 3D Web
 
-> **GitHub:** [github.com/PrathameshDET](https://github.com/PrathameshDET)  
-> **Specialties:** ASP.NET Core · Razor Pages · React · Three.js · MySQL · JWT Auth · REST APIs
+> **GitHub:** [github.com/PrathameshDET](https://github.com/PrathameshDET) | **Email:** prathamesh6678@gmail.com | **Phone:** +91 9137131684  
+> **Location:** Kandivali, Mumbai - India  
+> **Specialties:** ASP.NET Core · ASP.NET Web Forms · C# · MSSQL/MySQL · Razorpay · Dynamic PDFs
 
 ---
 
 ## 👋 Introduction
 
-Hi, I'm **Prathamesh Wadekar** — a full-stack software developer with hands-on experience building **production-grade web applications**, **immersive 3D showrooms**, **CRM platforms**, and **custom ERP systems** for real businesses.
+Hi, I'm **Prathamesh Wadekar** — a full-stack software developer currently working at **Digital Edge Technologies** (since Oct 2025), with a strong foundation built during my tenure at **Anjita IT Solution**. I have hands-on experience building **production-grade web applications**, **management systems**, **custom ERPs**, and **immersive 3D showrooms** for real businesses.
+
+I specialize in the **ASP.NET ecosystem (Core & Web Forms) + SQL Server**, with a strong focus on building user-centric interfaces, complex admin dashboards, dynamic PDF generation, and payment gateway integrations. 
 
 I don't just write code — I **solve business problems** with technology. Every project in my portfolio was built for an actual client or business use case, shipped to production, and maintained in active use.
 
-Whether you need a **modern website**, a **3D interactive experience** that WOWs your clients, a **CRM to manage your customer base**, or a **full ERP to run your operations** — I've built all of it from scratch using industry-standard tools and clean, scalable architecture.
+---
+
+## 💼 Professional Experience
+
+### Software Developer at Digital Edge Technologies *(Oct 28, 2025 - Present)*
+I am currently engineering complex, production-ready software solutions for diverse clients. The detailed case studies outlined in the Domains below (**Domain 1, 3, 4**) represent the major projects I have architected and built during my tenure here, including:
+- **Advance E-Commerce & KKDS Multi-Store** (ASP.NET Core)
+- **Volshebny CRM & Restaurant Loyalty CRM** (.NET, React)
+- **Tejco Smart ERP System** (.NET 9, Next.js)
+
+### Freelance 3D Web Developer *(Project-Based)*
+- **Schaeffler 3D Showroom:** Built an interactive, WebGL-powered 3D automotive showroom utilizing React, Three.js, and Electron (**Domain 2**).
+
+### Web Developer at Anjita IT Solution *(Sept 2022 - June 2024)*
+During my tenure here, I developed and maintained a range of production applications focusing on admin dashboards, database optimization, and backend integrations using ASP.NET.
+
+- **Phoenix Market City Mall Platform:** Built admin dashboards and end-user UI for multi-location mall management (Mumbai, Pune, Bangalore, etc.). Implemented landing page management, image uploads, and **Razorpay integration** for payment processing. *(ASP.NET Web Forms)*
+- **UMC QMS Meds Management System:** Developed a comprehensive scheduling and data management dashboard for medical camps, field officers, and medical representatives. *(ASP.NET Core Razor Pages)*
+- **Humrahi (Dietitian Management):** Created a specialized system for dietitians to manage client appointments, health metrics, and meal plans. *(ASP.NET Core Razor Pages)*
+- **Props Ka Pitara (E-commerce):** Maintained an e-commerce platform and engineered **automated, GST-compliant dynamic PDF invoice generation** and integrated email confirmations. *(ASP.NET Web Forms)*
+- **Redstone Villa Booking Platform:** Enhanced a luxury villa booking system with improved user interfaces and robust admin controls for property management and viewing amenities. *(ASP.NET Web Forms)*
 
 ---
 
@@ -277,16 +300,16 @@ A **restaurant loyalty and engagement platform** deployed on Firebase — the we
 ## 🛠️ Full Technology Stack
 
 ```
-Backend          │ ASP.NET Core 8/9  │  C#  │  MySQL  │  Stored Procedures  │  JWT  │  REST API
-Frontend         │ React 19  │  Next.js  │  TypeScript  │  Tailwind CSS  │  Razor Pages
+Backend          │ ASP.NET Core 8/9  │  ASP.NET Web Forms  │  C#  │  MySQL / MSSQL  │  REST API
+Frontend         │ React 19  │  Next.js  │  HTML/CSS/JS/jQuery  │  Tailwind CSS  │  Razor Pages
 3D / Graphics    │ Three.js  │  React Three Fiber  │  GSAP  │  WebGL  │  GLTF/GLB Models
 Desktop          │ Electron
 State Mgmt       │ Zustand
 Auth             │ JWT Bearer  │  Role-Based Access Control
-Payments         │ Stripe.net
+Payments & Int.  │ Stripe.net  │  Razorpay  │  Dynamic PDF Generation
 Email/SMS        │ MailKit  │  Twilio / SMS Providers
 Deployment       │ Firebase  │  IIS  │  Linux Server  │  PM2
-Dev Tools        │ Swagger/OpenAPI  │  Newtonsoft.Json  │  Visual Studio 2022  │  VS Code
+Dev Tools        │ Swagger/OpenAPI  │  Visual Studio 2022  │  VS Code  │  Git/GitHub
 ```
 
 ---
@@ -296,10 +319,14 @@ Dev Tools        │ Swagger/OpenAPI  │  Newtonsoft.Json  │  Visual Studio 2
 | Project | Type | Status | Tech |
 |---|---|---|---|
 | **Advance E-Commerce** | Web + API | ✅ Production | ASP.NET Core · Stripe |
+| **Phoenix Market City** | Multi-Location Web | ✅ Delivered | ASP.NET Web Forms · Razorpay |
+| **UMC QMS / Humrahi** | Management Systems | ✅ Delivered | ASP.NET Core Razor Pages |
+| **Props Ka Pitara** | E-Commerce | ✅ Delivered | ASP.NET Web Forms · PDF Invoicing |
+| **Redstone Villa** | Booking Platform | ✅ Delivered | ASP.NET Web Forms |
 | **Schaeffler 3D Showroom** | 3D Web + Desktop | ✅ Delivered | Three.js · React · Electron |
 | **Volshebny CRM** | CRM API | ✅ Live | .NET 8 · MySQL · JWT |
 | **Tejco Smart ERP** | ERP System | 🔄 Active Dev | .NET 9 · Next.js |
-| **Restaurant Loyalty CRM** | CRM + Mobile Web | ✅ Delivered | React · .NET · SMS |
+| **Restaurant Loyalty** | CRM + Mobile Web | ✅ Delivered | React · .NET · SMS |
 | **KKDS Multi-Store** | E-Commerce | ✅ Delivered | ASP.NET Core |
 | **ASG Loyalty System** | Web App | ✅ Firebase Live | React · TypeScript · Firebase |
 
